@@ -1,5 +1,5 @@
 # Homework4
-Fifth homework of ECE 231: Intermediate Programming. Assigned 3/6/2020. Due 3/13/2020, 11:59 pm
+Fifth homework of ECE 231: Intermediate Programming. Assigned 3/10/2020. Due 3/28/2020, 11:59 pm
 ## Instructions
 This assignment is based on this [git](https://github.com/crowleydi/ece231-week-3) with some modifications. You are going to implement specific version of a linear search algorithm and a binary search algorithm. These algorithms will be created in their respective files, `linearSearch.cpp` and `binarySearch.cpp`. Both files are unfinished, and it is your job to finish them. Then you will finish implementing two sorting algorithms: bubble sort and merge sort. They will be completed in their respective files: `bubbleSort.cpp` and `mergeSort.cpp`. How long these algorithms run will be captured with the class `Timer`, in the file `Timer.h`, and used in `tests.cpp`. `tests.cpp` contains `main` and will run all algorithms and time their runtimes, but the file is incomplete as well. You must complete the file so that it calls all algorithms without errors. You are given these files:
 
